@@ -7,7 +7,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu98-aka&layout=compact&theme=dark)
+![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshu98-aka&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 
 ### ✍️ Random Dev Quote
